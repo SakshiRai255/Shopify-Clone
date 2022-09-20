@@ -1,10 +1,10 @@
-##  This is a Shopify Clone 
 
-### Tech Stack
+## This is Paytm landing page's front end design clone which is responsive.
+### Tech Used:-
 -   HTML
 -   Tailwind CSS
 
-[Deployed-link]()
+[Deployed-link](https://shopify-clone-landing-page.netlify.app/)
 
 ### snapshots
 ![Images](img/Screenshot%20(462).png)

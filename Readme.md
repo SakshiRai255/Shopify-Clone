@@ -1,5 +1,5 @@
 
-## This is Paytm landing page's front end design clone which is responsive.
+## This is Shopify landing page's front end design clone which is responsive.
 ### Tech Used:-
 -   HTML
 -   Tailwind CSS
